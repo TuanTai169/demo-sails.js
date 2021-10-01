@@ -14,8 +14,9 @@ a [Sails v1](https://sailsjs.com) application
 
 1. Clone this repository
 2. Install dependencies using below command "npm install"
-3. Run app using "sails lift"
-4. Try to add an article and check results
+3. If not have MongoDB, [Install MongoDB](https://docs.mongodb.com/manual/installation/)
+4. Run app using "sails lift"
+5. Try to add an article and check results
 
 ### Version info
 
